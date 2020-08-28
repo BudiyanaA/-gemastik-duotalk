@@ -1,4 +1,23 @@
 {
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kata Sifat"
+    },
+    {"id": 2,
+     "name": "Warna"
+    },
+    {"id": 3,
+     "name": "Kalimat Sapaan"
+    },
+    {
+      "id": 4,
+      "name": "Kata Benda"
+    },
+    {"id": 5,
+     "name": "Kata Kerja"
+    }
+  ],
   "posts": [
     {
       "id": 1,
