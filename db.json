@@ -27,29 +27,30 @@
      "question": "Alit?",
      "correct_answer": "Kecil",
      "incorrect_answers":["Besar","Berbeda","Panjang"]
-    }
+    },
     {
      "category": "Kata Sifat",
      "question": "Sae / Alus?",
      "correct_answer": "Bagus",
      "incorrect_answers":["Jelek","Payah","Buruk"]
-    }
+    },
     {
      "category": "Kata Sifat",
      "question": "Ageung?",
      "correct_answer": "Besar",
      "incorrect_answers":["Kecil","Berbeda","Panjang"]
-    }
+    },
     {
      "category": "Kata Sifat",
      "question": "Hungkul?",
      "correct_answer": "Hanya",
      "incorrect_answers":["Untuk","Dapat","Bukan"]
-    }
+    },
     {
      "category": "Kata Sifat",
      "question": "He`se`?",
      "correct_answer": "Sulit",
      "incorrect_answers":["Mudah","Biasa","Bisa"]
     }
+  ]
 }
