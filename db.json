@@ -4,47 +4,52 @@
       "id": 1,
       "name": "Kata Sifat"
     },
-    {"id": 2,
+    {
+     "id": 2,
      "name": "Warna"
     },
-    {"id": 3,
+    {
+     "id": 3,
      "name": "Kalimat Sapaan"
     },
     {
       "id": 4,
       "name": "Kata Benda"
     },
-    {"id": 5,
+    {
+     "id": 5,
      "name": "Kata Kerja"
     }
   ],
-  "posts": [
+  "soal": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+     "category": "Kata Sifat",
+     "question": "Alit?",
+     "correct_answer": "Kecil",
+     "incorrect_answers":["Besar","Berbeda","Panjang"]
     }
-  ],
-  "comments": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+     "category": "Kata Sifat",
+     "question": "Sae / Alus?",
+     "correct_answer": "Bagus",
+     "incorrect_answers":["Jelek","Payah","Buruk"]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+     "category": "Kata Sifat",
+     "question": "Ageung?",
+     "correct_answer": "Besar",
+     "incorrect_answers":["Kecil","Berbeda","Panjang"]
+    }
+    {
+     "category": "Kata Sifat",
+     "question": "Hungkul?",
+     "correct_answer": "Hanya",
+     "incorrect_answers":["Untuk","Dapat","Bukan"]
+    }
+    {
+     "category": "Kata Sifat",
+     "question": "He`se`?",
+     "correct_answer": "Sulit",
+     "incorrect_answers":["Mudah","Biasa","Bisa"]
+    }
 }
