@@ -51,6 +51,251 @@
      "question": "He`se`?",
      "correct_answer": "Sulit",
      "incorrect_answers":["Mudah","Biasa","Bisa"]
-    }
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Gampil?",
+      "correct_answer": "Mudah",
+      "incorrect_answers":["Sulit","Biasa","Bisa"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Caket?",
+      "correct_answer": "Dekat",
+      "incorrect_answers":["Jarak","Jauh","Tempat"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Tebih?",
+      "correct_answer": "Jauh",
+      "incorrect_answers":["Jarak","Jauh","Tempat"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Geulis?",
+      "correct_answer": "Cantik",
+      "incorrect_answers":["Baik","Buruk","Tampan"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Kasep?",
+      "correct_answer": "Tampan",
+      "incorrect_answers":["Baik","Buruk","Cantik"]
+    },
+
+    {
+      "category": "Warna",
+      "question": "Koneng?",
+      "correct_answer": "Kuning",
+      "incorrect_answers":["Hijau","Abu - abu","Ungu","Merah"]
+     },
+     {
+      "category": "Warna",
+      "question": "Coklat?",
+      "correct_answer": "Coklat",
+      "incorrect_answers":["Biru","Putih","Orange","Hitam"]
+     },
+     {
+      "category": "Warna",
+      "question": "Beureum?",
+      "correct_answer": "Merah",
+      "incorrect_answers":["Hijau","Abu – abu","Ungu","Kuning"]
+     },
+     {
+      "category": "Warna",
+      "question": "Bodas?",
+      "correct_answer": "Putih",
+      "incorrect_answers":["Biru","Orange","Hitam","Coklat"]
+     },
+     {
+      "category": "Warna",
+      "question": "Hideung?",
+      "correct_answer": "Hitam",
+      "incorrect_answers":["Biru","Putih","Orange","Coklat"]
+     },
+     {
+       "category": "Warna",
+       "question": "Hejo?",
+       "correct_answer": "Hijau",
+       "incorrect_answers":["Abu – abu","Ungu","Kuning","Merah"]
+     },
+     {
+       "category": "Warna",
+       "question": "Wungu?",
+       "correct_answer": "Ungu",
+       "incorrect_answers":["Hijau","Abu – abu","Kuning","Merah"]
+     },
+     {
+       "category": "Warna",
+       "question": "Bulao?",
+       "correct_answer": "Biru",
+       "incorrect_answers":["Putih","Orange","Hitam","Coklat"]
+     },
+     {
+       "category": "Warna",
+       "question": "Oranyeu?",
+       "correct_answer": "Orange",
+       "incorrect_answers":["Biru","Putih","Hitam","Coklat"]
+     },
+     {
+       "category": "Warna",
+       "question": "Abu?",
+       "correct_answer": "Abu – abu",
+       "incorrect_answers":["Hijau","Ungu","Kuning","Merah"]
+     },
+
+     {
+      "category": "Kalimat Sapaan",
+      "question": "Wilujeng enjing?",
+      "correct_answer": "Selamat pagi",
+      "incorrect_answers":["Selamat siang","Selamat sore","Selamat malam"]
+     },
+     {
+      "category": "Kalimat Sapaan",
+      "question": "Penggunaan kata sapaan ‘neng’ yang benar adalah?",
+      "correct_answer": "“Neng, bade kamana?”",
+      "incorrect_answers":["“Neng, kamana bade?”","“Kamana bade neng?”","“Kamana neng bade?”"]
+     },
+     {
+      "category": "Kalimat Sapaan",
+      "question": "Wilujeng wengi?",
+      "correct_answer": "Selamat malam",
+      "incorrect_answers":["Selamat pagi","Selamat siang","Selamat sore"]
+     },
+     {
+      "category": "Kalimat Sapaan",
+      "question": "Penggunaan kata sapaan ‘kang’ yang benar adalah?",
+      "correct_answer": "“Punten kang, aya nu tiasa di bantos?”",
+      "incorrect_answers":["“Punten, aya kang nu tiasa di bantos?”","“Punten aya nu kang tiasa di bantos?”","“Punten aya nu tiasa di kang bantos?”"]
+     },
+     {
+      "category": "Kalimat Sapaan",
+      "question": "Wilujeng beurang?",
+      "correct_answer": "Selamat siang",
+      "incorrect_answers":["Selamat pagi","Selamat sore","Selamat malam"]
+     },
+
+     {
+      "category": "Kata Benda",
+      "question": "Sakola?",
+      "correct_answer": "Sekolah",
+      "incorrect_answers":["Restoran","Kampus","Rumah"]
+     },
+     {
+      "category": "Kata Benda",
+      "question": "Bumi/rorompok?",
+      "correct_answer": "Rumah",
+      "incorrect_answers":["Restoran","Kampus","Sekolah"]
+     },
+     {
+      "category": "Kata Benda",
+      "question": "Warna?",
+      "correct_answer": "Warna",
+      "incorrect_answers":["Sifat","Kata","Hitam"]
+     },
+     {
+      "category": "Kata Benda",
+      "question": "Artos?",
+      "correct_answer": "Uang",
+      "incorrect_answers":["Kantong","Koin","Beli"]
+     },
+     {
+      "category": "Kata Benda",
+      "question": "Kecap?",
+      "correct_answer": "Kata",
+      "incorrect_answers":["Kecap","Kalimat","Sambal"]
+     },
+     {
+       "category": "Kata Benda",
+       "question": "Nami?",
+       "correct_answer": "Nama",
+       "incorrect_answers":["Kalimat","Kata","Bahasa"]
+     },
+     {
+       "category": "Kata Benda",
+       "question": "Budak sakola?",
+       "correct_answer": "Anak Sekolah",
+       "incorrect_answers":["Anak rumah","Orang sekolah","Orang rumah"]
+     },
+     {
+       "category": "Kata Benda",
+       "question": "Nami abdi?",
+       "correct_answer": "Nama aku",
+       "incorrect_answers":["Nama kamu","Nama kita","Nama kalian"]
+     },
+
+     {
+      "category": "Kata Kerja",
+      "question": "Gaduh?",
+      "correct_answer": "Punya",
+      "incorrect_answers":["Dapat","Akan","Bisa"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Membawa?",
+      "correct_answer": "Nyokot/mawa",
+      "incorrect_answers":["Masihan/mere","Indit","Tiasa"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Ngadamel/nyieun?",
+      "correct_answer": "Membuat",
+      "incorrect_answers":["Menggunakan","Membawa","Memberi"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Ningali?",
+      "correct_answer": "Melihat",
+      "incorrect_answers":["Memberi","Menggunakan","Membawa"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Kudu?",
+      "correct_answer": "Harus",
+      "incorrect_answers":["Jangan","Bisa","Akan"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Nganggo?",
+       "correct_answer": "Memakai",
+       "incorrect_answers":["Memberi","Melihat","Membawa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Tiasa?",
+       "correct_answer": "Bisa",
+       "incorrect_answers":["Harus","Jangan","Akan"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Bade?",
+       "correct_answer": "Akan",
+       "incorrect_answers":["Harus","Jangan","Bisa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Ngantunkeun?",
+       "correct_answer": "Meninggalkan",
+       "incorrect_answers":["Memberi","Memakai","Membawa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Abdi masihan?",
+       "correct_answer": "Saya memberi",
+       "incorrect_answers":["Saya mendapat","Saya mengambil","Saya menaruh"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Abdi bade?",
+      "correct_answer": "Saya akan",
+      "incorrect_answers":["Saya harus","Saya dapat","Saya jangan"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Abdi kudu?",
+       "correct_answer": "Saya harus",
+       "incorrect_answers":["Saya akan","Saya dapat ","Saya jangan"]
+     }
+
   ]
 }
