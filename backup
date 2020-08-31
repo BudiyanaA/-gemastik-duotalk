@@ -59,6 +59,31 @@
       "incorrect_answers":["Sulit","Biasa","Bisa"]
     },
     {
+      "category": "Kata Sifat",
+      "question": "Caket?",
+      "correct_answer": "Dekat",
+      "incorrect_answers":["Jarak","Jauh","Tempat"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Tebih?",
+      "correct_answer": "Jauh",
+      "incorrect_answers":["Jarak","Jauh","Tempat"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Geulis?",
+      "correct_answer": "Cantik",
+      "incorrect_answers":["Baik","Buruk","Tampan"]
+    },
+    {
+      "category": "Kata Sifat",
+      "question": "Kasep?",
+      "correct_answer": "Tampan",
+      "incorrect_answers":["Baik","Buruk","Cantik"]
+    },
+
+    {
       "category": "Warna",
       "question": "Koneng?",
       "correct_answer": "Kuning",
@@ -95,6 +120,31 @@
        "incorrect_answers":["Abu – abu","Ungu","Kuning","Merah"]
      },
      {
+       "category": "Warna",
+       "question": "Wungu?",
+       "correct_answer": "Ungu",
+       "incorrect_answers":["Hijau","Abu – abu","Kuning","Merah"]
+     },
+     {
+       "category": "Warna",
+       "question": "Bulao?",
+       "correct_answer": "Biru",
+       "incorrect_answers":["Putih","Orange","Hitam","Coklat"]
+     },
+     {
+       "category": "Warna",
+       "question": "Oranyeu?",
+       "correct_answer": "Orange",
+       "incorrect_answers":["Biru","Putih","Hitam","Coklat"]
+     },
+     {
+       "category": "Warna",
+       "question": "Abu?",
+       "correct_answer": "Abu – abu",
+       "incorrect_answers":["Hijau","Ungu","Kuning","Merah"]
+     },
+
+     {
       "category": "Kalimat Sapaan",
       "question": "Wilujeng enjing?",
       "correct_answer": "Selamat pagi",
@@ -124,6 +174,7 @@
       "correct_answer": "Selamat siang",
       "incorrect_answers":["Selamat pagi","Selamat sore","Selamat malam"]
      },
+
      {
       "category": "Kata Benda",
       "question": "Sakola?",
@@ -167,6 +218,13 @@
        "incorrect_answers":["Anak rumah","Orang sekolah","Orang rumah"]
      },
      {
+       "category": "Kata Benda",
+       "question": "Nami abdi?",
+       "correct_answer": "Nama aku",
+       "incorrect_answers":["Nama kamu","Nama kita","Nama kalian"]
+     },
+
+     {
       "category": "Kata Kerja",
       "question": "Gaduh?",
       "correct_answer": "Punya",
@@ -201,6 +259,43 @@
        "question": "Nganggo?",
        "correct_answer": "Memakai",
        "incorrect_answers":["Memberi","Melihat","Membawa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Tiasa?",
+       "correct_answer": "Bisa",
+       "incorrect_answers":["Harus","Jangan","Akan"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Bade?",
+       "correct_answer": "Akan",
+       "incorrect_answers":["Harus","Jangan","Bisa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Ngantunkeun?",
+       "correct_answer": "Meninggalkan",
+       "incorrect_answers":["Memberi","Memakai","Membawa"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Abdi masihan?",
+       "correct_answer": "Saya memberi",
+       "incorrect_answers":["Saya mendapat","Saya mengambil","Saya menaruh"]
+     },
+     {
+      "category": "Kata Kerja",
+      "question": "Abdi bade?",
+      "correct_answer": "Saya akan",
+      "incorrect_answers":["Saya harus","Saya dapat","Saya jangan"]
+     },
+     {
+       "category": "Kata Kerja",
+       "question": "Abdi kudu?",
+       "correct_answer": "Saya harus",
+       "incorrect_answers":["Saya akan","Saya dapat ","Saya jangan"]
      }
+
   ]
 }
